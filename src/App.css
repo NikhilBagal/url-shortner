@@ -268,7 +268,6 @@ footer {
   display: flex;
   background-color: hsl(260, 8%, 14%);
   height: 40vh;
-  
 }
 footer .logo-img {
   margin: 5% 5% auto 10%;
@@ -315,11 +314,17 @@ footer .social-connect ul li:hover {
     margin: 5% 10% auto 10%;
   }
   .wrapper .hero-sec .text-sec {
-    margin-right: 2%;
-    width: 40%;
+    margin-right: 12%;
+    width: 30%;
+  }
+  .wrapper .hero-sec .text-sec h1 {
+    font-size: 3vw;
   }
   .wrapper .hero-sec .img-sec {
     width: 40%;
+  }
+  .wrapper .hero-sec .img-sec img {
+    max-width: 100%;
   }
   .wrapper .input-sec .input-area {
     width: 80%;
@@ -331,5 +336,50 @@ footer .social-connect ul li:hover {
   .wrapper .input-sec .list-area ul {
     width: 100%;
     margin: 2% 0% auto 3%;
+  }
+  .card-area .cards .card-1 .card-text,.card-2 .card-text,.card-3 .card-text {
+    top: 10%;
+  }
+  .bottom-text {
+    height: 15vh;
+    
+  }
+  footer {
+    height: 20vh;
+  }
+  footer .link-list {
+    width: 30%;
+    margin: 5% 10% auto 5%;
+  }
+  footer .link-list ul li {
+    margin-bottom: 7%;
+  }
+}
+@media only screen and (max-width:800px) {
+  #first-list {
+    margin-left: 5%;
+  }
+  #first-list li {
+    margin-left: 5%;
+    font-size: 15px;
+  }
+  #first-list li img {
+    width: 80%;
+  }
+  #second-list {
+    margin-left: 10%;
+  }
+  #second-list li {
+    font-size: 15px;
+  }
+  #second-list #sign-btn {
+    padding: 5px 10px;
+    font-size: 15px;
+  }
+  .wrapper .input-sec .input-area form button {
+    padding: 10px 15px;
+  }
+  footer .social-connect ul li {
+    margin: auto 5%;
   }
 }
