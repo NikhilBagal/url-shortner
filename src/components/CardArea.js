@@ -8,7 +8,7 @@ function CardArea(){
         <div className="card-area">
             <div className="card-area-head-text">
                 <h1>Advanced Statistics</h1>
-                <p>Track how your links are performing across the web with<br/> our 
+                <p>Track how your links are performing across the web with our 
                 advanced statistics dashboard.</p>
             </div>
             <div className="cards">
