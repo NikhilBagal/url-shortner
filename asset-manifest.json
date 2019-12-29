@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/url-shortner/static/css/main.21671f11.chunk.css",
+    "main.js": "/url-shortner/static/js/main.86915bba.chunk.js",
+    "main.js.map": "/url-shortner/static/js/main.86915bba.chunk.js.map",
+    "runtime-main.js": "/url-shortner/static/js/runtime-main.f2294f20.js",
+    "runtime-main.js.map": "/url-shortner/static/js/runtime-main.f2294f20.js.map",
+    "static/js/2.67106c8b.chunk.js": "/url-shortner/static/js/2.67106c8b.chunk.js",
+    "static/js/2.67106c8b.chunk.js.map": "/url-shortner/static/js/2.67106c8b.chunk.js.map",
+    "index.html": "/url-shortner/index.html",
+    "precache-manifest.f27494aaa1fa5bcbbdb22ace638d3c9d.js": "/url-shortner/precache-manifest.f27494aaa1fa5bcbbdb22ace638d3c9d.js",
+    "service-worker.js": "/url-shortner/service-worker.js",
+    "static/css/main.21671f11.chunk.css.map": "/url-shortner/static/css/main.21671f11.chunk.css.map",
+    "static/js/2.67106c8b.chunk.js.LICENSE": "/url-shortner/static/js/2.67106c8b.chunk.js.LICENSE",
+    "static/media/App.css": "/url-shortner/static/media/bg-boost-desktop.dc8b886b.svg",
+    "static/media/icon-brand-recognition.svg": "/url-shortner/static/media/icon-brand-recognition.1922b68a.svg",
+    "static/media/icon-detailed-records.svg": "/url-shortner/static/media/icon-detailed-records.e3d9caa9.svg",
+    "static/media/icon-facebook.svg": "/url-shortner/static/media/icon-facebook.7febcff9.svg",
+    "static/media/icon-fully-customizable.svg": "/url-shortner/static/media/icon-fully-customizable.cc099cea.svg",
+    "static/media/icon-instagram.svg": "/url-shortner/static/media/icon-instagram.996b697c.svg",
+    "static/media/icon-pinterest.svg": "/url-shortner/static/media/icon-pinterest.c557c3d4.svg",
+    "static/media/icon-twitter.svg": "/url-shortner/static/media/icon-twitter.cb4fea0b.svg",
+    "static/media/illustration-working.svg": "/url-shortner/static/media/illustration-working.5029d049.svg",
+    "static/media/logo.svg": "/url-shortner/static/media/logo.6387840f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2294f20.js",
+    "static/js/2.67106c8b.chunk.js",
+    "static/css/main.21671f11.chunk.css",
+    "static/js/main.86915bba.chunk.js"
+  ]
+}
